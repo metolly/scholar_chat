@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272747594379",
+    "project_id": "mostafamshgaded",
+    "storage_bucket": "mostafamshgaded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272747594379:android:d1e5bb05171b9687e24a8e",
+        "android_client_info": {
+          "package_name": "com.example.scholar_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272747594379-rt919g3jqpd1vtcdrdrsgri8tcroh32v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7UIi2MA_SHeKNDzDJLWgIZGpAKvBfW_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272747594379-rt919g3jqpd1vtcdrdrsgri8tcroh32v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
